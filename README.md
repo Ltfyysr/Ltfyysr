@@ -31,5 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ltfyysr&show_icons=true&locale=en" alt="ltfyysr" /></p>
 
-![snake gif](https://github.com/Ltfyysr/Ltfyysr/blob/output/github-contribution-grid-snake.gif)
+
 
