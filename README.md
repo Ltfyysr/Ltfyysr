@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Flutter** and **.NET MVC** projects
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **lutfiyeyasar38@gmail.com**
 
